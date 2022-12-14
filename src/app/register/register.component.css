@@ -49,10 +49,10 @@ justify-content: space-between;
 
 .form input{
     width: 350px;
-    height: 60px;
+    height: 40px;
 }
 .btn{
     width: 350px;
-    height: 60px;
+    height:45px;
     margin-top: 0px;
 }
