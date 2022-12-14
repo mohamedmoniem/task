@@ -1,0 +1,84 @@
+
+
+body{
+    background-image: url("https://s3-alpha-sig.figma.com/img/b34d/b360/1ea4fa941cbe4148b4f953d4f5b1c969?Expires=1671408000&Signature=WUDkTwKOW57y4S~3rb1vYIyyF8-nvkg8BMPth5znU1A~7foev90ejZThbl0AC-9ztyNWzwBcawik~UN00rzcMwq5jz7f6wJ9zxOrN4K~LWQuBFbORbMRjQrKFmL4LB9MTwJkUXwaG11koLVtyXGE4gmirNn0nNLsqd5Hrlkj7yusOC7qAa199KdXmfaJdHJDsQTc95ZVqntqaetg7vHSN0WmvuLNs9SFb3cIVOWbyV5gFcNrahymCLewWAIXv-opP2u0N~5UY2ggAS9IzmW6vIc2E7g4rbIP2vM0Gq1ky5y9YXY5IRD6KLtRD53-vqX~jL~VoKuOd1XivWfAPQNggw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-size: cover;
+}
+
+.bcontainer{
+    width: 1280px;
+    height: 835px;
+    top: 560px;
+    left: -816px;
+    padding: 200px 100px 200px 100px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 1080px;
+    height: 435px;
+    top: 200px;
+    left: 100px;
+    border-radius: 10px;
+    padding: 60px;
+    gap: 60px;
+    background: #F5F7FFD9;
+
+}
+
+.box1{
+ height: 315px;
+width: 450px;
+left: 60px;
+top: 60px;
+border-radius: 10px;
+}
+
+.box2{
+    height: 315px;
+    width: 450px;
+    left: 60px;
+    top: 60px;
+}
+
+
+.box2 h1{
+    
+line-height: 67px;
+letter-spacing: 0em;
+text-align: left;
+top: 105px;
+font-style: normal;
+font-weight: 400;
+font-size: 56px;
+line-height: 120%;   
+}
+.box2 p{
+    font-family: Mulish;
+font-size: 24px;
+font-weight: 400;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.box2{
+    display: flex;
+    flex-flow: column;
+}
+
+.box2 button{
+height: 60px;
+width: 450px;
+left: 0px;
+top: 270px;
+border-radius: 10px;
+margin-top: 100px;
+background: linear-gradient(113.87deg, #2663DF 14.81%, #758FF0 88.76%);
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+

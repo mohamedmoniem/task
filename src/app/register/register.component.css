@@ -1,0 +1,58 @@
+body {
+    background-image: url("../../assets/111.png");
+    background-size: cover;
+    height: 1056px;
+    width: 100%;
+    position: relative;
+}
+
+.card{
+    background: #F5F7FFD9;
+    border-radius:10px;
+     width: 1080px; height: 656px;
+     position: absolute;
+     left: 50%; top: 50%;
+     transform: translate(-50% ,-50%);
+     display: flex;
+flex-direction: row;
+justify-content: space-between;
+       
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    height: 536px;
+    width: 450px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.box1{
+    background-color: #F5F7FFD9;
+    height: 536px;
+    width: 450px;
+    margin-right: 20px;
+    margin-top: 0px;
+    transform: translateX(60px);
+}
+
+
+.box h2{
+    margin-left: 37px;
+}
+
+.box p{
+    margin-left: 37px;
+    margin-top: 25px;
+    
+}
+
+.form input{
+    width: 350px;
+    height: 60px;
+}
+.btn{
+    width: 350px;
+    height: 60px;
+    margin-top: 0px;
+}
